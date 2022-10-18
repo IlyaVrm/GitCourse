@@ -6,3 +6,5 @@ Hello GitHub!
 Hello SSH!
 -------------
 Hello from User2!
+-------------
+New line (add1)
