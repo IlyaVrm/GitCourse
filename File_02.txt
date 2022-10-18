@@ -3,4 +3,4 @@ Hello Git_02!
 Hello from User2!
 Hello from User2!!!
 ---------------
-Bug fixed
+Hello rebase User2
