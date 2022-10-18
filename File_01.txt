@@ -5,4 +5,4 @@ Hello GitHub!
 -------------
 Hello SSH!
 -------------
-Hello from Ilya! (from master)
+Hello from Ilya!
